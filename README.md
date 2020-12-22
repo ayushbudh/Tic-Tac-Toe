@@ -5,4 +5,4 @@
     </ol>
     <h1> App Demo</h1>
 
-    ![Appdemo(1)](https://user-images.githubusercontent.com/56787472/102846035-9bbe4d80-43d4-11eb-8cee-8912e17cc877.gif)
+    ![github](https://user-images.githubusercontent.com/56787472/102846035-9bbe4d80-43d4-11eb-8cee-8912e17cc877.gif)
